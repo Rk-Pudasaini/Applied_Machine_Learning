@@ -1,0 +1,39 @@
+FileName: Name of the file or record containing the CTG examination data.
+Date: Date of the CTG examination.
+b: Start instant of the CTG examination.
+e: End instant of the CTG examination.
+LBE: Baseline value of the fetal heart rate as determined by a medical expert.
+LB: Baseline value of the fetal heart rate as determined by SisPorto.
+AC: Number of accelerations in the fetal heart rate as determined by SisPorto.
+FM: Number of fetal movements as determined by SisPorto.
+UC: Number of uterine contractions as determined by SisPorto.
+ASTV: Percentage of time with abnormal short term variability in the fetal heart rate as determined by SisPorto.
+mSTV: Mean value of short term variability in the fetal heart rate as determined by SisPorto.
+ALTV: Percentage of time with abnormal long term variability in the fetal heart rate as determined by SisPorto.
+mLTV: Mean value of long term variability in the fetal heart rate as determined by SisPorto.
+DL: Number of light decelerations in the fetal heart rate.
+DS: Number of severe decelerations in the fetal heart rate.
+DP: Number of prolonged decelerations in the fetal heart rate.
+DR: Number of repetitive decelerations in the fetal heart rate.
+Width: Histogram width of the fetal heart rate.
+Min: Low frequency of the histogram of the fetal heart rate.
+Max: High frequency of the histogram of the fetal heart rate.
+Nmax: Number of histogram peaks of the fetal heart rate.
+Nzeros: Number of histogram zeros of the fetal heart rate.
+Mode: Histogram mode of the fetal heart rate.
+Mean: Histogram mean of the fetal heart rate.
+Median: Histogram median of the fetal heart rate.
+Variance: Histogram variance of the fetal heart rate.
+Tendency: Histogram tendency of the fetal heart rate: -1=left asymmetric; 0=symmetric; 1=right asymmetric.
+A: Calm sleep state of the fetus.
+B: REM sleep state of the fetus.
+C: Calm vigilance state of the fetus.
+D: Active vigilance state of the fetus.
+SH: Shift pattern (A or Susp with shifts).
+AD: Accelerative/decelerative pattern indicating stress situation.
+DE: Decelerative pattern indicating vagal stimulation.
+LD: Largely decelerative pattern.
+FS: Flat-sinusoidal pattern indicating a pathological state.
+SUSP: Suspect pattern.
+CLASS: Class code (1 to 10) for classes A to SUSP.
+NSP: Classification of the CTG examination: Normal=1; Suspect=2; Pathologic=3.
